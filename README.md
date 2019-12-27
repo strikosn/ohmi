@@ -2,7 +2,7 @@
 
 Quick command line tool with a REPL loop to assist in resistance/power computations. Given any two quantities from each of current, voltage, resistance or power, it will compute and print the other two.
 
-Relies on [quantulum3](github.com/nielstron/quantulum3) for unit parsing and [github.com/hgrecco/pint] for computations, therefore input is flexible and intuitive.
+Relies on [quantulum3](http://github.com/nielstron/quantulum3) for unit parsing and [pint](http://github.com/hgrecco/pint) for computations, therefore input is flexible and intuitive.
 
 Examples:
 
